@@ -1,6 +1,6 @@
-//: # 一个swift 学习案例
+//: # 一个swift 学习指导
 //:
-//: Tradition suggests that the first program in a new language should print the words “Hello, world!” on the screen. In Swift, this can be done in a single line:
+//: 一般来说，开始一个新语言的学习要在屏幕上打印出"hello,world". 在swift语言中，可以用一行来实现:
 //:
 print("Hello, world!")
 
